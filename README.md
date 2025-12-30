@@ -48,7 +48,7 @@ No tempo livre, gosto de jogos, música e ler. E sinta-se à vontade para me con
 <div>
   <a href="https://github.com/iamdavysouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilafernanda&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamdavysouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilafernada&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ##
