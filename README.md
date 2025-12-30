@@ -15,14 +15,12 @@ No tempo livre, gosto de jogos, música e ler. E sinta-se à vontade para me con
   <img src="https://tenor.com/pt-BR/view/10-gif-831245735741112641" alt="Gif hackerman">
 </div>
 
-<div align="center"class="tenor-gif-embed" data-postid="831245735741112641" data-share-method="host" data-aspect-ratio="1.33516" data-width="100%"><a href="https://tenor.com/view/10-gif-831245735741112641">10 GIF</a>from <a href="https://tenor.com/search/10-gifs">10 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> #g
-
 </td></tr>
 </table>
 </p>
 
 <p align="right">
-<img src="https://views.whatilearened.today/views/github/camilafernanda/views.svg"> <a href="https://github.com/iamdavysouza/"><img src="https://img.shields.io/github/followers/iamdavysouza?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+<img src="https://views.whatilearened.today/views/github/iamdavysouza/views.svg"> <a href="https://github.com/iamdavysouza/"><img src="https://img.shields.io/github/followers/iamdavysouza?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
 </p>
 
 ### Experiências
