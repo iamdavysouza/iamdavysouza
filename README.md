@@ -64,25 +64,6 @@ Atualmente, aprofundo minha expertise em **Cibersegurança Defensiva** na FIAP, 
 
 > 🔎 *Sempre que possível, projetos incluem documentação, diagramas e amostras de dados simulados para facilitar estudos.*
 
----
-
-## 🧭 Metodologias & Frameworks
-- **MITRE ATT&CK**, **NIST CSF**, **SANS Incident Handler’s Handbook**  
-- **Kill Chain** e **Diamante de Intrusão** para contextualização de ameaças  
-- **ISO 27001/27002** para boas práticas de segurança e compliance
-
----
-
-## 🌱 Em aprendizado contínuo
-- **Análise Forense Digital** (memória, disco e rede)  
-- **Segurança em Cloud** (Azure Security Center, Defender for Cloud)  
-
----
-
-
-## 📝 Nota
-Este perfil reflete minha atuação em **SOC**, **MSS/MDR** e **Threat Hunting**, com foco em **resposta a incidentes**, **redução de falsos positivos** e **resiliência operacional**.
-
 
 ## Contatos:
 <div>
