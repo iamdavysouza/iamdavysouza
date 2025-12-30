@@ -11,11 +11,9 @@ Sou **Analista de Cybersecurity** com foco em respostas na Redbelt Security. Atu
 
 No tempo livre, gosto de jogos, música e ler. E sinta-se à vontade para me contatar e conversar sobre projetos ou apenas para trocar ideias 🫡
 
-
-<div class="tenor-gif-embed" data-postid="831245735741112641" data-share-method="host" data-width="100%" data-aspect-ratio="1.78">
-  <a href="https://tenor.com/view/10-gif-831245735741112641">Ver no Tenor</a>
+<div align="center"> 
+  <img src="https://tenor.com/pt-BR/view/hacker-gif-21929152.gif" alt="Gif hackerman">
 </div>
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 </td></tr>
