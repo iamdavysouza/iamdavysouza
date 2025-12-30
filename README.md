@@ -6,7 +6,7 @@
 <table width="100%">
 <tr><td valign="top" width="50%">
 
-Sou **Analista de Cybersecurity** com foco em respostas na Redbelt Security. Atuo como Analista SOC na linha de frente da defesa digital utilizando stacks de elite como **IBM QRadar**, **CrowdStrike** e **Microsoft Sentinel**. Apaixonado por desafios de segurança defensiva! Atualmente cursando pós graduação na FIAP e com badges como CompTIA Security+, eJPT e CRTA no inventário, estou preparado para criar defesas que não só protegem, mas antecipam ataques.
+Sou **Analista de Cybersecurity** com foco em respostas a incidentes. Atuo como Analista SOC na linha de frente da defesa digital utilizando stacks de elite como **IBM QRadar**, **CrowdStrike** e **Microsoft Sentinel**. Apaixonado por desafios de segurança defensiva! Atualmente cursando pós graduação na FIAP e com badges como CompTIA Security+, eJPT e CRTA no inventário, estou preparado para criar defesas que não só protegem, mas antecipam ataques.
 
 
 No tempo livre, gosto de jogos, música e ler. E sinta-se à vontade para me contatar e conversar sobre projetos ou apenas para trocar ideias 🫡
