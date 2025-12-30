@@ -1,63 +1,79 @@
-# Olá, me chamo Davy ! 
-## Bem vindo ao meu perfil GitHub 👋
+# Olá, boas vindas ao meu perfil GitHub 👋
 
-**SOC Analyst at @Redbelt Security | SOC & Incident Response | CompTIA Security+ | Pós-graduando em Defensive Cybersecurity na FIAP | eJPT | CRTA | SIEM & Endpoint Security (QRadar, CrowdStrike, Sentinel)**
+## Me chamo Davy!
 
----
+<p align="right">
+<table width="100%">
+<tr><td valign="top" width="50%">
 
-## 🔐 Sobre mim
-Profissional de Cibersegurança focado em transformar a detecção de ameaças em **resiliência operacional**.  
-Com sólida experiência no monitoramento de infraestruturas críticas, atuo na linha de frente da defesa digital utilizando stacks de elite como **IBM QRadar**, **CrowdStrike** e **Microsoft Sentinel**.
+Sou **Analista de Cybersecurity** com foco em respostas na Redbelt Security. Atuo como Analista SOC na linha de frente da defesa digital utilizando stacks de elite como **IBM QRadar**, **CrowdStrike** e **Microsoft Sentinel**. Apaixonado por desafios de segurança defensiva! Atualmente cursando pós graduação na FIAP e com badges como CompTIA Security+, eJPT e CRTA no inventário, estou preparado para criar defesas que não só protegem, mas antecipam ataques.
 
-Minha trajetória é pautada pela **análise técnica rigorosa em ambientes de SOC** e pela capacidade de orquestrar respostas a incidentes em **War Rooms**, garantindo a mitigação ágil de riscos.  
-Atualmente, aprofundo minha expertise em **Cibersegurança Defensiva** na FIAP, unindo certificações como **CompTIA Security+**, **eJPT** e **CRTA** para entregar uma defesa proativa que alinha a proteção de dados aos objetivos de continuidade do negócio.
 
----
+No tempo livre, gosto de jogos, música e ler. E sinta-se à vontade para me contatar e conversar sobre projetos ou apenas para trocar ideias 🫡
+  
+<div align="center"> 
+  <img src="https://tenor.com/pt-BR/view/10-gif-831245735741112641" alt="Gif hackerman">
+</div>
 
-## 🛠️ Principais Competências
-- **Orquestração e Resposta de Incidentes:** Monitoramento, triagem e análise profunda de alertas via plataforma **SOAR**, garantindo resposta ágil e alinhada aos **SLAs críticos**.  
-- **Threat Hunting e Correlação de Logs:** Execução de buscas proativas por anomalias e ameaças ocultas utilizando **IBM QRadar**, **WAF**, **CrowdStrike Falcon** e **Microsoft Defender**, com correlação avançada de logs.  
-- **Otimização de Detecção e Falsos Positivos:** Mapeamento e identificação de falsos positivos, correção de regras de correlação e refinamento de alertas para reduzir ruído e aumentar a fidelidade do monitoramento.  
-- **Escalonamento Estratégico e Remediação:** Gestão de alertas críticos com escalonamento direto para **Incident Response**, apoiando investigações avançadas e esforços de contenção.  
-- **Comunicação de Crise e Notificação:** Gestão de comunicação em tempo real com clientes, garantindo clareza executiva e rapidez técnica nos reports.  
-- **Sustentação de SIEM e Troubleshooting:** Monitoramento ativo de **log sources** e suporte ao time de SIEM na investigação de eventos e resolução de falhas de ingestão.  
-- **Operações MSS & MDR:** Atuação estratégica em serviços gerenciados de detecção e resposta (MDR), com health checks (ativos, EOL, hosts duplicados).  
-- **Análise Multicamadas (SOC/NOC):** Monitoramento e triagem de eventos críticos em ecossistemas híbridos (CrowdStrike Falcon, FortiSIEM, Checkpoint Harmony), e gestão de infraestrutura via **Grafana**, **Zabbix** e **SolarWinds**.  
-- **Inteligência e Fine-tuning:** Refinamento de casos de uso de Threat Intelligence, aplicação de exclusões estratégicas e ajustes técnicos para maximizar a fidelidade das detecções.  
-- **Consultoria e Suporte Técnico:** Liderança em reuniões técnicas e atendimento consultivo para **CrowdStrike Falcon**, com foco em resolução eficiente e satisfação do cliente.  
-- **Gestão de Vulnerabilidades e Reporting:** Relatórios executivos de saúde de sensores e infraestrutura, e execução de **vulnerability scans** para suportar decisões de risco.  
-- **Automação de Workflows:** Desenvolvimento e implementação de automações (migração de tenants, atualização de sensores), otimizando tempo de resposta e escalabilidade.
+</td></tr>
+</table>
+</p>
 
----
+<p align="right">
+<img src="https://views.whatilearened.today/views/github/camilafernanda/views.svg"> <a href="https://github.com/camilafernanda/"><img src="https://img.shields.io/github/followers/camilafernanda?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+</p>
 
-## 🧰 Tech Stack & Badges
+### Experiências
 
-**SIEM & EDR**
-![QRadar](https://img.shields.io/badge/SIEM-IBM%20QRadar-052FAD?style=flat&logo=ibm&logoColor=white)
-![Microsoft Sentinel](https://img.shields.io/badge/SIEM-Microsoft%20Sentinel-0078D4?style=flat&logo=microsoft&logoColor=white)
-![CrowdStrike](https://img.shields.io/badge/EDR-CrowdStrike-E21E2B?style=flat&logo=crowdstrike&logoColor=white)
-![Microsoft Defender](https://img.shields.io/badge/EDR-Microsoft%20Defender-0067B8?style=flat&logo=microsoftdefender&logoColor=white)
+- 💻 Analista de SOC - Redbelt Security
+- 💻 Analista de Cibersegurança - Betta Global Partner
 
-**Infra & Redes**
-![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/OS-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Firewall](https://img.shields.io/badge/Network-Firewall-orange?style=flat)
-![VPN](https://img.shields.io/badge/Network-VPN-blue?style=flat)
+### Ferramentas e Tecnologias
 
-**Linguagens & Scripting**
-![Python](https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/Shell-PowerShell-2C2C32?style=flat&logo=powershell&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" alt="splunk" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phalcon/phalcon-plain.svg" alt="falcon" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" alt="kali" width="40" height="40" />
 
-**Certificações**
-![CompTIA Security+](https://img.shields.io/badge/Cert-CompTIA%20Security%2B-EA3B2E?style=flat&logo=comptia&logoColor=white)
-![eJPT](https://img.shields.io/badge/Cert-eJPT-FF6F00?style=flat)
-![CRTA](https://img.shields.io/badge/Cert-CRTA-7F52FF?style=flat)
+          
 
-bash icon <i class="devicon-bash-plain colored"></i>
-powershell icon <i class="devicon-powershell-plain colored"></i>
-python icon <i class="devicon-python-plain"></i>
-linux icon <i class="devicon-linux-plain colored"></i>
+
+### Estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" alt="azure" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="google" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+
+
+          
+          
+
+### Certificações
+- **SY0-701** CompTIA Security+
+- **eJPT** eLearn Security Junior Penetration Tester
+
+
+##
+<div>
+  <a href="https://github.com/iamdavysouza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilafernanda&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilafernanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+##
+### Contatos:
+<div align="center"> 
+  <a href="https://instagram.com/camila.fernanda.alves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:millanandanet14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/camila-fernanda-machado-alves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+##
+  ![Snake animation](https://github.com/camilafernanda/camilafernanda/blob/output/github-contribution-grid-snake.svg)
 
 
 
