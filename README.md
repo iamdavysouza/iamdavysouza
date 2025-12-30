@@ -6,8 +6,8 @@
 # 👋 Olá, eu sou **Davy Souza**
 **SOC Analyst at @Redbelt Security | SOC & Incident Response | CompTIA Security+ | Pós-graduando em Defensive Cybersecurity na FIAP | eJPT | CRTA | SIEM & Endpoint Security (QRadar, CrowdStrike, Sentinel)**
 
-[![LinkedIn - Davy Souza](https://img.shields.io/badge/LinkedIn-Davy%20Souza-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-linkedin)
-[![Email](https://img.shields.io/badge/Email-seuemail%40dominio.com-181717?style=for-the-badge&logo=maildotru)](mailto:seuemail@dominio.com)
+[![LinkedIn - Davy Souza](https://img.shields.io/badge/LinkedIn-Davy%20Souza-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/davy-souza)
+[![Email](https://img.shields.io/badge/Email-seuemail%40dominio.com-181717?style=for-the-badge&logo=maildotru)](mailto:contatodavysp@gmail.com)
 
 ---
 
