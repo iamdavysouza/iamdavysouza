@@ -10,10 +10,13 @@ Sou **Analista de Cybersecurity** com foco em respostas na Redbelt Security. Atu
 
 
 No tempo livre, gosto de jogos, música e ler. E sinta-se à vontade para me contatar e conversar sobre projetos ou apenas para trocar ideias 🫡
-  
-<div align="center"> 
-  <img src="https://tenor.com/pt-BR/view/10-gif-831245735741112641" alt="Gif hackerman">
+
+
+<div class="tenor-gif-embed" data-postid="831245735741112641" data-share-method="host" data-width="100%" data-aspect-ratio="1.78">
+  <a href="https://tenor.com/view/10-gif-831245735741112641">Ver no Tenor</a>
 </div>
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 </td></tr>
 </table>
@@ -42,14 +45,6 @@ No tempo livre, gosto de jogos, música e ler. E sinta-se à vontade para me con
 ### Certificações
 - **SY0-701** CompTIA Security+
 - **eJPT** eLearn Security Junior Penetration Tester
-
-
-##
-<div>
-  <a href="https://github.com/iamdavysouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilafernanda&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilafernada&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 ##
   ![Snake animation](https://github.com/camilafernanda/camilafernanda/blob/output/github-contribution-grid-snake.svg)
