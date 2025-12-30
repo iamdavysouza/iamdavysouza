@@ -23,7 +23,7 @@ No tempo livre, gosto de jogos, música e ler. E sinta-se à vontade para me con
 ### Experiências
 
 - 💻 Analista de SOC - Redbelt Security
-- 💻 Analista de Cibersegurança - Betta Global Partner
+- 🛡️ Analista de Cibersegurança - Betta Global Partner
 
 ### Ferramentas e Tecnologias
 
