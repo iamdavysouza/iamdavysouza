@@ -54,6 +54,14 @@ Atualmente, aprofundo minha expertise em **Cibersegurança Defensiva** na FIAP, 
 ![eJPT](https://img.shields.io/badge/Cert-eJPT-FF6F00?style=flat)
 ![CRTA](https://img.shields.io/badge/Cert-CRTA-7F52FF?style=flat)
 
+bash icon <i class="devicon-bash-plain colored"></i>
+powershell icon <i class="devicon-powershell-plain colored"></i>
+python icon <i class="devicon-python-plain"></i>
+linux icon <i class="devicon-linux-plain colored"></i>
+
+
+
+
 ---
 
 ## 📂 Projetos neste repositório
