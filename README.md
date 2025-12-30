@@ -19,10 +19,6 @@ No tempo livre, gosto de jogos, música e ler. E sinta-se à vontade para me con
 </table>
 </p>
 
-<p align="right">
-<img src="https://views.whatilearened.today/views/github/iamdavysouza/views.svg"> <a href="https://github.com/iamdavysouza/"><img src="https://img.shields.io/github/followers/iamdavysouza?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
-</p>
-
 ### Experiências
 
 - 💻 Analista de SOC - Redbelt Security
@@ -56,11 +52,6 @@ No tempo livre, gosto de jogos, música e ler. E sinta-se à vontade para me con
 </div>
 
 ##
-### Contatos:
-<div align="center"> 
-<a href = "mailto:contatodavysp@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/davy-souza" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
 
 ##
   ![Snake animation](https://github.com/camilafernanda/camilafernanda/blob/output/github-contribution-grid-snake.svg)
